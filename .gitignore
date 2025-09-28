@@ -1,0 +1,14 @@
+# Ignorar entorno virtual
+.venv/
+
+# Ignorar carpeta de datos
+data/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*.DS_Store
