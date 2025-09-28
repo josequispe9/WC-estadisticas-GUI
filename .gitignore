@@ -3,6 +3,7 @@
 
 # Ignorar carpeta de datos
 data/
+.claude/
 
 # Archivos de Python compilados
 __pycache__/
